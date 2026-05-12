@@ -1,0 +1,37 @@
+{
+  "@@locale": "en",
+
+  "todosOverviewAppBarTitle": "Todos",
+  "todosOverviewErrorSnackbarText": "An error occurred",
+
+  "todosOverviewTodoDeletedSnackbarText": "{todoTitle} deleted",
+  "@todosOverviewTodoDeletedSnackbarText": {
+    "placeholders": {
+      "todoTitle": {}
+    }
+  },
+
+  "todosOverviewUndoDeletionButtonText": "Undo",
+
+  "todosOverviewEmptyText": "No todos found",
+
+  "todosOverviewFilterTooltip": "Filter Todos",
+  "todosOverviewFilterAll": "All",
+  "todosOverviewFilterActiveOnly": "Active Only",
+  "todosOverviewFilterCompletedOnly": "Completed Only",
+
+  "todosOverviewOptionsTooltip": "Options",
+  "todosOverviewOptionsMarkAllComplete": "Mark all complete",
+  "todosOverviewOptionsMarkAllIncomplete": "Mark all incomplete",
+  "todosOverviewOptionsClearCompleted": "Clear completed",
+
+  "statsAppBarTitle": "Stats",
+  "statsCompletedTodoCountLabel": "Completed Todos",
+  "statsActiveTodoCountLabel": "Active Todos",
+
+  "editTodoAddAppBarTitle": "Add Todo",
+  "editTodoEditAppBarTitle": "Edit Todo",
+  "editTodoSaveButtonTooltip": "Save Todo",
+  "editTodoTitleLabel": "Title",
+  "editTodoDescriptionLabel": "Description"
+}
