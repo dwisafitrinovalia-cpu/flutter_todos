@@ -1,4 +1,4 @@
-import 'package:flutter_todos/packages/todos_api/lib/todos_api.dart';
+import 'package:todos_api/todos_api.dart';
 
 enum TodosViewFilter { all, activeOnly, completedOnly }
 
